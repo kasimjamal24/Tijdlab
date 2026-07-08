@@ -1,6 +1,6 @@
 # ZIP-Bestanden
 
-Tijdlab.ZIP (1.8GB):
+Tijdlab.zip (1.8GB):
 - QGIS-Bestand
 - Beroepsproduct
 - Outputs
